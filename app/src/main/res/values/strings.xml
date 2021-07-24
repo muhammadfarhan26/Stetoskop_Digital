@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stetoskop Digital</string>
+    <string name="rekam_suara_jantung">Rekam Suara Jantung</string>
+    <string name="jantung_activity">jantung_activity</string>
+    <string name="home">home</string>
+    <string name="favorite">favorite</string>
+    <string name="account">account</string>
+    <string name="setting">setting</string>
+    <string name="cek_status_jantung">Cek Status Jantung</string>
+    <string name="halo">Halo</string>
+    <string name="informasi">Informasi</string>
+    <string name="gunakanlah_alat_stetoskop_digital_yang_sesuai">Gunakanlah alat stetoskop digital yang sesuai</string>
+    <string name="pencarian">Pencarian</string>
+    <string name="siapakan_alat_stetoskop_digital_sebelum_merekam">SIAPAKAN ALAT STETOSKOP DIGITAL SEBELUM MEREKAM</string>
+    <string name="pastikan_anda_memiliki_device_stetoskop_digital">PASTIKAN ANDA MEMILIKI DEVICE STETOSKOP DIGITAL</string>
+</resources>
